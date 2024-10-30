@@ -1,9 +1,9 @@
 {
     "ip_address" : "127.0.0.1",
     "region_name": "BANKMFDB",
-    "regionPort": 9023,
-    "jesPort": 8001,
-    "product": "ES",
+    "regionPort": 9020,
+    "jesPort": 8000,
+    "product": "EDz",
     "configuration_files":
         {
             "base_config": "base.json",
