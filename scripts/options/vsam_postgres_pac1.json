@@ -1,9 +1,9 @@
 {
     "ip_address" : "127.0.0.1",
     "region_name": "BANKPAC1",
-    "regionPort": 9023,
+    "regionPort": 9021,
     "jesPort": 8001,
-    "product": "ES",
+    "product": "EDz",
     "configuration_files":
         {
             "base_config": "base.json",
