@@ -2,7 +2,7 @@
     "ip_address" : "127.0.0.1",
     "region_name": "BANKSQL",
     "regionPort": 9023,
-    "jesPort": 8001,
+    "jesPort": 8003,
     "product": "EDz",
     "configuration_files":
         {
