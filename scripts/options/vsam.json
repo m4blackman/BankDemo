@@ -1,8 +1,8 @@
 {
     "ip_address" : "127.0.0.1",
     "region_name": "BANKVSAM",
-    "regionPort": 9023,
-    "jesPort": 8001,
+    "regionPort": 9024,
+    "jesPort": 8004,
     "product": "EDz",
     "configuration_files":
         {
